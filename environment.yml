@@ -1,0 +1,17 @@
+name: rl
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.8
+  - pip
+  - jupyter
+  - matplotlib
+  - ipython
+  - pathos
+  - numpy
+  - scipy
+  - gym
+  - jax
+  - jaxlib
+  - tqdm
